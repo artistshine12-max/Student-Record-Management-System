@@ -83,7 +83,7 @@ This project demonstrates:
 - Object-Oriented Programming in C++
 - CRUD Operations
 - Menu-Driven Programming
-- Data Handling
+- Data Handling with easy steps
 - Record Management Systems
 - Problem Solving Using C++
 
